@@ -147,5 +147,8 @@
       }
     }
   },
-  "defaultProject": "web_template"
+  "defaultProject": "web_template",
+  "cli": {
+    "analytics": false
+  }
 }
